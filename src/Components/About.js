@@ -32,7 +32,7 @@ export default function About() {
             <img
               className="object-cover object-center rounded-full"
               alt="Cole Webster"
-              src="./CW.jpg"
+              src="./Profile-Photo.jpg"
             />
           </div>
         </div>

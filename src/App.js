@@ -1,9 +1,9 @@
 import React from "react";
-import Navbar from "./Components/Navbar";
-import About from "./Components/About";
-import Projects from "./Components/Projects";
-import Skills from "./Components/Skills";
-import Contact from "./Components/Contact";
+import Navbar from "./components/Navbar";
+import About from "./components/About";
+import Projects from "./components/Projects";
+import Skills from "./components/Skills";
+import Contact from "./components/Contact";
 
 export default function App() {
   return (
