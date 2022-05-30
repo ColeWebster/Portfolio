@@ -10,7 +10,7 @@ export default function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            While attending the UCF full-stack bootcamp, I worked with a team to build several projects. Also, on my social media I am participating in #100DayofCodes and my repository can be found below.
+            Below is a sample of full stack web applications and projects that I have built both in a team environment and on my own. 
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
